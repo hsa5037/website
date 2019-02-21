@@ -1,11 +1,13 @@
 body {
+	margin: 0;
 	font-family: 'Playfair Display', serif;
 }
 
 #header{
 	background: url(../img/IMG_5969.JPG) no-repeat top center fixed/cover;
+	margin-top: 0px;
 	position: relative;
-	min-height: 600px;
+	min-height: 80vh;
 	color:	#fff;
 	overflow:hidden;
 }
@@ -33,7 +35,7 @@ footer {
 }
 
 #headerContent {
-	padding-top: 14rem;
+	padding-top: 15rem;
 	padding-left: 6rem;
 }
 
@@ -63,7 +65,7 @@ footer {
 }
 
 #contactSites {
-	background: url(../img/IMG_5200.JPG) no-repeat top center fixed/cover;
+	background: url(../img/IMG_5200.jpeg) no-repeat bottom center fixed/cover;
 	min-height: 250px;
 }
 

@@ -4,7 +4,8 @@ body {
 }
 
 #header{
-	background: url(../img/IMG_5969.JPG) no-repeat top center fixed/cover;
+	background-color: black;
+	background: url(../img/IMG_5969.jpg) no-repeat top center fixed/cover;
 	margin-top: 0px;
 	position: relative;
 	min-height: 80vh;

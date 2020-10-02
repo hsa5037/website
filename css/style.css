@@ -1,0 +1,134 @@
+body {
+	margin: 0;
+	font-family: 'Playfair Display', serif;
+}
+
+#header{
+	background-color: black;
+	background: url(../img/IMG_5969.jpg) no-repeat top center fixed/cover;
+	margin-top: 0px;
+	position: relative;
+	min-height: 80vh;
+	color:	#fff;
+	overflow:hidden;
+}
+
+footer {
+	background: url(../img/navbarbackground.png);
+	opacity: 0.9;
+	color: white;
+	vertical-align: center;
+}
+
+.navbar {
+	color: white;
+	background: url(../img/navbarbackground.png);
+	opacity: 0.9;
+}
+
+
+.navlink {
+	color: #fff;
+}
+
+.nav-link {
+	color: white;
+}
+
+#headerContent {
+	padding-top: 15rem;
+	padding-left: 6rem;
+}
+
+#name{
+	text-align: left;
+}
+
+#aboutMe {
+	padding-top: 5rem;
+}
+
+#aboutMe > h1 {
+	text-decoration: bold;
+}
+
+#carouselHead {
+	padding-top: 5rem;
+}
+
+.carousel {
+	margin: 0 auto;
+	width: 540px;
+}
+
+.carousel-inner > .carousel-item > img {
+	height: 360px;
+}
+
+#contactSites {
+	background: url(../img/IMG_5200.jpeg) no-repeat bottom center fixed/cover;
+	min-height: 250px;
+}
+
+#contactSites > h5 {
+	margin-top: 100px;
+	color: white;
+	padding-top: 5rem;
+}
+
+.fab {
+	color: white;
+}
+
+#projectRow {
+	padding-top: 3rem;
+}
+
+#projectRow.row {
+	padding-top: 6rem;
+	border: solid;
+}
+
+#button {
+	padding-top: 4rem;
+
+}
+
+.btn {
+	color: white;
+}
+
+#homebrew{
+	padding-top: 2rem;
+	height: 99%;
+	overflow-y: scroll;
+}
+
+#recipe>h1 {
+	text-decoration: underline;
+}
+
+#scrollcontainer {
+	padding-top: 4rem;
+	position: relative;
+	height: 650px;
+	width: 70%;
+	padding-bottom: 4rem;
+}
+
+
+#emailform {
+	padding-top: 4rem;
+}
+
+#emailform > h3 {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
